@@ -40,3 +40,15 @@ Inorder to do so, i will note the following statements to guide me through:
 # Optimization and storage
 - Changing the data types of the columns in my data set to optimize storage.
 - Save my data set for analysis.
+
+  To open the full project, click on the project link
+Open the project, 
+ 
+click on the more edit options ie the arrow pointing down beside the raw button.
+ 
+Under open with, select Github Desktop
+ 
+
+Select view the file of your repository in Explorer.
+ 
+ 
